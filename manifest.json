@@ -1,0 +1,9 @@
+{
+    "name": "Scatter Plot Plugin",
+    "id": "scatter-plot-plugin",
+    "main": "code.js",
+    "ui": "ui.html",
+    "editorType": ["figma"],
+    "api": "1.0.0"
+  }
+  
