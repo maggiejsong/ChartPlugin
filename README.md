@@ -1,4 +1,4 @@
-# Scatter Plot Points — Figma Plugin
+# Chart Plugin— Figma Plugin
 
 A simple Figma plugin that plots points on the canvas from user-inputted `x,y` coordinates.  
 Built with **TypeScript** and the **Figma Plugin API**.
