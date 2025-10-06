@@ -32,11 +32,13 @@ Built with **TypeScript** and the **Figma Plugin API**.
 ```bash
 git clone https://github.com/maggiejsong/ChartPlugin.git
 cd scatter-plot-plugin
-
+```
 ### 2. Install TypeScript (dev dependency)
 ```bash
 npm install --save-dev typescript
+```
 
 ### 3. Compile TypeScript to JS
 ```bash
 npx tsc
+```
